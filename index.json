@@ -1,0 +1,16 @@
+{
+  "name": "instagram",
+  "description": "instagram",
+  "triggers": [],
+  "actions": [
+    "/v1/get_details",
+    "/v1/get_comments",
+    "/v1/recent_media_details"
+  ],
+  "version": 1,
+  "auth_type": "custom",
+  "docs_link": "http://docs.example.com",
+  "appId": "09ff2de1-70bb-4b85-a695-5b720c5b58ec",
+  "guid": "95a63b55-f2b6-4c6a-9f92-2107bd95f649",
+  "connectionUid": "instagram_1581396845205"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "instagram",
+  "version": "1.0.0",
+  "description": "instagram",
+  "dependencies": {
+    "request": "2.55.0",
+    "@webmethodsio/cli-sdk": "*"
+  }
+}
