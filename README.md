@@ -29,7 +29,7 @@ Also, to use this connector. you must have [wmiocli](https://docs.webmethods.io/
 ### Installing
 
 1. Clone the repo `git clone https://github.com/SoftwareAG/webmethods.io-Instagram-Community-Connector.git`.
-2. Run `npm install -g @webmethodsio/wmioclinpm install -g @webmethodsio/wmiocli`.
+2. Run `npm install -g @webmethodsio/wmiocli`.
 3. Login to your webmethods.io tenant using `wmio login`.
 4. Execute `wmio init` to get started.
 5. Finally, execute `wmio deploy` to deploy this connector to your tenant.
