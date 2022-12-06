@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "instagram",
   "dependencies": {
-    "request": "2.55.0",
+    "request": "2.88.2",
     "@webmethodsio/cli-sdk": "*"
   }
 }
